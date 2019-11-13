@@ -12,6 +12,11 @@ public class WeatherActivity extends AppCompatActivity {
     public void onCreate(@Nullable Bundle savedInstanceState, @Nullable PersistableBundle persistentState) {
         super.onCreate(savedInstanceState, persistentState);
         Log.i("log", "This is Create");
+        // Create a new Fragment to be placed in the activity layout
+        ForecastFragment firstFragment = new ForecastFragment();
+// Add the fragment to the 'container' FrameLayout
+        getSupportFragmentManager().beginTransaction().add(
+                R.id.fragment, firstFragment).commit();
     }
 
     @Override

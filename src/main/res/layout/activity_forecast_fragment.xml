@@ -4,13 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".WeatherActivity">
+    tools:context=".ForecastFragment">
 
-    <fragment
-        android:id="@+id/fragment"
-        android:name="vn.edu.usth.weather.ForecastFragment"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="135dp"
-        tools:layout_editor_absoluteY="101dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
