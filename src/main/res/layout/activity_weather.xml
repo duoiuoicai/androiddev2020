@@ -8,20 +8,21 @@
     android:id="@+id/container"
     tools:context=".WeatherActivity">
 
-    <fragment
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:name="vn.edu.usth.weather.WeatherFragment"
-        android:layout_marginTop="10dp"
         android:layout_marginRight="10dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginBottom="0dp"/>
+        android:layout_marginBottom="0dp"
+        android:background="#FFC0CB"/>
 
-    <fragment
-        android:id="@+id/forecastfragment"
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
         android:name="vn.edu.usth.weather.ForecastFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="10dp"
-        android:layout_marginBottom="10dp"/>
+        android:layout_marginBottom="10dp" />
 </LinearLayout>
