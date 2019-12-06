@@ -61,7 +61,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Monday"
+                    android:text="@string/Monday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -78,7 +78,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Rainy"
+                        android:text="@string/Rainy"
                         android:textSize="10sp" />
 
                     <TextView
@@ -100,7 +100,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Tuesday"
+                    android:text="@string/Tuesday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -117,7 +117,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Rainy"
+                        android:text="@string/Rainy"
                         android:textSize="10sp" />
 
                     <TextView
@@ -139,7 +139,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Wednesday"
+                    android:text="@string/Wednesday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -156,7 +156,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Sunny"
+                        android:text="@string/Sunny"
                         android:textSize="10sp" />
 
                     <TextView
@@ -178,7 +178,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Thursday"
+                    android:text="@string/Thursday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -195,7 +195,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Sunny"
+                        android:text="@string/Sunny"
                         android:textSize="10sp" />
 
                     <TextView
@@ -217,7 +217,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Friday"
+                    android:text="@string/Friday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -234,7 +234,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Rainy"
+                        android:text="@string/Rainy"
                         android:textSize="10sp" />
 
                     <TextView
@@ -256,7 +256,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Saturday"
+                    android:text="@string/Saturday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -273,7 +273,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Rainy"
+                        android:text="@string/Rainy"
                         android:textSize="10sp" />
 
                     <TextView
@@ -295,7 +295,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Sunday"
+                    android:text="@string/Sunday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -312,7 +312,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Sunny"
+                        android:text="@string/Sunny"
                         android:textSize="10sp" />
 
                     <TextView
@@ -334,7 +334,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Monday"
+                    android:text="@string/Monday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -351,7 +351,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Sunny"
+                        android:text="@string/Sunny"
                         android:textSize="10sp" />
 
                     <TextView
@@ -373,7 +373,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Tuesday"
+                    android:text="@string/Tuesday"
                     android:textSize="10sp" />
 
                 <ImageView
@@ -390,7 +390,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Rainy"
+                        android:text="@string/Rainy"
                         android:textSize="10sp" />
 
                     <TextView
